@@ -3,8 +3,8 @@ guid: 154e06a49815ff349a0c2ff0d58b1b8a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6192650038780124411
-    second: GrappleAbilityIcon_0
+      213: -1064023487662444757
+    second: GrappleIcon_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: GrappleAbilityIcon_0
+      name: GrappleIcon_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1000
-        height: 1000
+        x: 1
+        y: 3
+        width: 475
+        height: 478
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 503a33c89994f0aa0800000000000000
-      internalID: -6192650038780124411
+      spriteID: b2f25318644db31f0800000000000000
+      internalID: -1064023487662444757
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      GrappleAbilityIcon_0: -6192650038780124411
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
