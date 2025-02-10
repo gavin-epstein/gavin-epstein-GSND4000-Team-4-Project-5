@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 5656726576514762168}
   - component: {fileID: 2927195870997780716}
   - component: {fileID: 2193948486510666768}
+  - component: {fileID: 3310782255065976118}
   - component: {fileID: 2945877137134033241}
   - component: {fileID: 8488488827481027033}
   - component: {fileID: 776274631939886950}
@@ -85,12 +86,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 1469510806287737052, guid: 0100b24ceb1cee64b9069298ce332bef, type: 3}
+  m_Sprite: {fileID: 21300000, guid: c642f5606b34f8f4482414bd1a90fc09, type: 3}
   m_Color: {r: 1, g: 0.8349056, b: 0.975313, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 4.99, y: 6.74}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -158,6 +159,22 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: a9a87794c2ebe1946ab7860708b367b6, type: 2}
+--- !u!114 &3310782255065976118
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6205863145975355648}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 4a31e182d8f2c7c4db032a924451eeb4, type: 2}
 --- !u!114 &2945877137134033241
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -217,17 +234,17 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.00013542175, y: 0.0060431957}
+  m_Offset: {x: -0.9640007, y: 0.2680192}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 5.47, y: 4.43}
-    newSize: {x: 1, y: 1}
+    oldSize: {x: 7, y: 7}
+    newSize: {x: 4.99, y: 6.74}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 5.469681, y: 4.41666}
+  m_Size: {x: 5.088025, y: 3.5768614}
   m_EdgeRadius: 0
 --- !u!50 &776274631939886950
 Rigidbody2D:
