@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 154e06a49815ff349a0c2ff0d58b1b8a
+guid: c642f5606b34f8f4482414bd1a90fc09
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1064023487662444757
-    second: GrappleIcon_0
+      213: 2820143329777312509
+    second: Frog_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: GrappleIcon_0
+      name: Frog_0
       rect:
         serializedVersion: 2
         x: 1
-        y: 3
-        width: 475
-        height: 478
+        y: 0
+        width: 499
+        height: 354
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b2f25318644db31f0800000000000000
-      internalID: -1064023487662444757
+      spriteID: df2601baa69232720800000000000000
+      internalID: 2820143329777312509
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Frog_0: 2820143329777312509
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
