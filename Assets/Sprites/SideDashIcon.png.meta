@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SideDashIcon_0: -6313387732923384545
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
