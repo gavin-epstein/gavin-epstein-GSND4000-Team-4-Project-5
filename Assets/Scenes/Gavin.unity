@@ -1898,9 +1898,18 @@ PrefabInstance:
       value: Spawner
       objectReference: {fileID: 0}
     - target: {fileID: 9060738993449128448, guid: 844aede40f494714998792e7fae10dfe, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Object_to_Spawn","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 9060738993449128448, guid: 844aede40f494714998792e7fae10dfe, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9060738993449128448, guid: 844aede40f494714998792e7fae10dfe, type: 3}
       propertyPath: '_data._objectReferences.Array.data[0]'
       value: 
-      objectReference: {fileID: 6205863145975355648, guid: cdd88c5c0a1a6204188e235ba2a7ad54, type: 3}
+      objectReference: {fileID: 6205863145975355648, guid: a798cba06f4d7084994280f67d78b9e4, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

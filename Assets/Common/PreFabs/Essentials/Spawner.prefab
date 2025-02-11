@@ -49,7 +49,7 @@ MonoBehaviour:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Object_to_Spawn","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
-    - {fileID: 6205863145975355648, guid: a313b8cba4ccac046b434324a5cc9918, type: 3}
+    - {fileID: 6205863145975355648, guid: a798cba06f4d7084994280f67d78b9e4, type: 3}
 --- !u!114 &2932292810122549402
 MonoBehaviour:
   m_ObjectHideFlags: 0
